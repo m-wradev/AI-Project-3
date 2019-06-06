@@ -16,3 +16,6 @@ id3.exe takes three command-line arguments:
 3. The text file containing the testing data
 
 If I recall correctly, each feature vector for the iris-data dataset contains four attributes, so you would run the program as follows: `./id3 4 training.txt testing.txt`
+
+## Output
+id3.exe outputs the number of testing vectors that it correctly identified.
