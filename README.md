@@ -1,6 +1,6 @@
 # AI-Project-3
 
-## How to Build
+## How to Compile
 Type "make" in the directory containing the makefile to compile the project wit no debug output enabled.
 
 There are four different debug modes that you can set when compiling the project with make:
